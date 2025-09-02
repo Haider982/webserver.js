@@ -1,5 +1,10 @@
 # webserver.js
-A webserver built with node.js
+An open-source webserver built with node.js
 
 # Requirements
-Install node.js
+Install node.jsa
+
+# Running
+
+Run the cmd file called "run.cmd"
+Add it to startup for it to startup with the OS.
