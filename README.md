@@ -2,7 +2,7 @@
 An open-source webserver built with node.js
 
 # Requirements
-Install node.jsa
+Install node.js
 
 # Running
 
